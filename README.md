@@ -1,4 +1,4 @@
-DSC40B Fall 2025 Starter Code
+# DSC40B Fall 2025 Starter Code
 
 Hi everyone, welcome to the Fall 2025 offering of DSC 40B: Theoretical Foundations of Data Science II!
 
