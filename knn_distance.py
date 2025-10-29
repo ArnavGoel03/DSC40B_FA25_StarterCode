@@ -1,6 +1,6 @@
 import random
 
-def knndistance(arr, q, k):
+def knn_distance(arr, q, k):
     distances = []
 	
     for num in arr:
