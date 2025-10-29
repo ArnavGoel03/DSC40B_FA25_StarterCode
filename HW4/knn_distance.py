@@ -1,6 +1,12 @@
 import random
 
 def knn_distance(arr, q, k):
-    """Compute the kth nearest point and the distance to it."""
+    if k>len(arr):
+        return None
+    distance=[]
+    for num in arr  :
+        distance.append((abs(q-num),num))
+    
+        
     
     return None
